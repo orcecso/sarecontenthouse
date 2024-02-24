@@ -4,7 +4,7 @@ Welcome to the Content House Technical Test for Flutter Developers. Please make 
 
 ## Purpose of this test
 
-This test does not directly connect to your offer. The purpose of this test is for us to understand your skill level in Flutter. 
+This test does not directly connect to your offer. The purpose of this test is for us to understand your skill level in Flutter.
 
 The result from your outcome will help us to determine what kind of training and guidelines we should provide to you. And also what kind of tasks are suitable for you.
 
@@ -25,3 +25,5 @@ Your first task is to set up your local Flutter development environment. And run
 ## Final words
 
 We are looking forward to your submission for this test. And also looking forward to you joining the team. Good luck!
+
+# sarecontenthouse
