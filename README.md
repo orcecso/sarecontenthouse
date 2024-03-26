@@ -1,4 +1,5 @@
-Content House Technical Test
+**Content House Technical Test**
+
 This repository contains a coding exam project that was undertaken to demonstrate proficiency in various software development skills. Developed entirely from scratch, this exam showcases expertise in state management using Bloc, adherence to coding principles, implementation of clean code practices, creation of reusable widgets, and utilization of routing solutions such as auto_route, among others.
 
 Test Overview
