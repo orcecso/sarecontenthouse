@@ -2,7 +2,8 @@
 
 This repository contains a coding exam project that was undertaken to demonstrate proficiency in various software development skills. Developed entirely from scratch, this exam showcases expertise in state management using Bloc, adherence to coding principles, implementation of clean code practices, creation of reusable widgets, and utilization of routing solutions such as auto_route, among others.
 
-Test Overview
+**Test Overview**
+
 The technical test consists of multiple phases aimed at assessing different aspects of software development:
 
 - Fixing Broken Features: Initially, the application is broken and requires debugging and fixing.
@@ -13,7 +14,8 @@ The technical test consists of multiple phases aimed at assessing different aspe
 - Code Optimization and Refactoring: The codebase is optimized and refactored to improve performance, readability, and maintainability.
 - Application of Coding Principles: All coding principles, including SOLID, DRY, and KISS, are applied diligently throughout the project.
 
-Usage Instructions
+**Usage Instructions**
+
 - Clone the repository to your local development environment.
 - Ensure that all dependencies are installed using pub get or equivalent package manager.
 - Follow the provided instructions for each phase of the test.
